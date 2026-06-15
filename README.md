@@ -9,6 +9,14 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability Management Program Implementation](https://github.com/Darideivi/Vulnerability-Management-Program)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
+## 🔐 Identity & Access Management (IAM)
+
+- **[Flask + Microsoft Entra ID SSO Demo](https://github.com/Darideivi/flask-entra-id-sso-demo)**
+  - Built a Python Flask web application integrated with Microsoft Entra ID for Single Sign-On (SSO) authentication.
+  - Implemented OAuth 2.0 Authorization Code Flow and OpenID Connect (OIDC) using Microsoft Authentication Library (MSAL).
+  - Configured App Registrations, Redirect URIs, Client IDs, Tenant IDs, and Client Secrets in Microsoft Entra ID.
+  - Created authenticated user sessions and troubleshooting documentation for common SSO authentication issues.
+
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
