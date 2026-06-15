@@ -7,7 +7,7 @@ I'm passionate about cybersecurity and Programming. I love tackling complex chal
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Darideivi/Vulnerability-Management-Program)**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- 
 
 ## 🔐 Identity & Access Management (IAM)
 
@@ -16,7 +16,7 @@ I'm passionate about cybersecurity and Programming. I love tackling complex chal
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- 
 
 <hr/>
 
