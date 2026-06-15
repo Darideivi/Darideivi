@@ -13,9 +13,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Flask + Microsoft Entra ID SSO Demo](https://github.com/Darideivi/flask-entra-id-sso-demo)**
   - Built a Python Flask web application integrated with Microsoft Entra ID for Single Sign-On (SSO) authentication.
-  - Implemented OAuth 2.0 Authorization Code Flow and OpenID Connect (OIDC) using Microsoft Authentication Library (MSAL).
-  - Configured App Registrations, Redirect URIs, Client IDs, Tenant IDs, and Client Secrets in Microsoft Entra ID.
-  - Created authenticated user sessions and troubleshooting documentation for common SSO authentication issues.
 
 ## 🚨 Threat Hunting and Security Operations
 
