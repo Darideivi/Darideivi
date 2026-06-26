@@ -16,7 +16,7 @@ I'm passionate about cybersecurity and Programming. I love tackling complex chal
 
 ## 🚨 Threat Hunting and Security Operations
 
-- 
+ - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Darideivi/threat-hunting-scenario-tor)**
 
 <hr/>
 
