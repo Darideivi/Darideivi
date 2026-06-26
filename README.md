@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and Programming. I love tackling complex chal
 
 ## 🔐 Identity & Access Management (IAM)
 
-- **[Flask + Microsoft Entra ID SSO Demo + Code](https://github.com/Darideivi/flask-entra-id-sso-demo-code/tree/main)**
+- **[Flask + Microsoft Entra ID SSO Demo + Code](https://github.com/Darideivi/flask-entra-id-sso-demo-code)**
   - Built a Python Flask web application integrated with Microsoft Entra ID for Single Sign-On (SSO) authentication.
 
 ## 🚨 Threat Hunting and Security Operations
