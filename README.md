@@ -7,7 +7,7 @@ I'm passionate about cybersecurity and Programming. I love tackling complex chal
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Darideivi/Vulnerability-Management-Program)**
-    -Designed and implemented a complete vulnerability management lifecycle using Tenable, including authenticated scans, risk analysis, remediation, and verification.
+  -Designed and implemented a complete vulnerability management lifecycle using Tenable, including authenticated scans, risk analysis, remediation, and verification.
 
 ## 🔐 Identity & Access Management (IAM)
 
@@ -18,7 +18,7 @@ I'm passionate about cybersecurity and Programming. I love tackling complex chal
 ## 🚨 Threat Hunting and Security Operations
 
  - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Darideivi/threat-hunting-scenario-tor)**
-     -Investigated a simulated security incident using Microsoft Defender for Endpoint and Microsoft Sentinel to trace Tor Browser execution, analyze attacker activity, and map findings to the MITRE ATT&CK framework.
+   -Investigated a simulated security incident using Microsoft Defender for Endpoint and Microsoft Sentinel to trace Tor Browser execution, analyze attacker activity, and map findings to the MITRE ATT&CK framework.
 
 <hr/>
 
