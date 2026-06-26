@@ -7,16 +7,18 @@ I'm passionate about cybersecurity and Programming. I love tackling complex chal
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Darideivi/Vulnerability-Management-Program)**
-- 
+    -Designed and implemented a complete vulnerability management lifecycle using Tenable, including authenticated scans, risk analysis, remediation, and verification.
 
 ## 🔐 Identity & Access Management (IAM)
 
 - **[Flask + Microsoft Entra ID SSO Demo + Code](https://github.com/Darideivi/flask-entra-id-sso-demo-code)**
   - Built a Python Flask web application integrated with Microsoft Entra ID for Single Sign-On (SSO) authentication.
+    
 
 ## 🚨 Threat Hunting and Security Operations
 
  - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Darideivi/threat-hunting-scenario-tor)**
+     -Investigated a simulated security incident using Microsoft Defender for Endpoint and Microsoft Sentinel to trace Tor Browser execution, analyze attacker activity, and map findings to the MITRE ATT&CK framework.
 
 <hr/>
 
