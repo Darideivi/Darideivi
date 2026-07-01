@@ -27,7 +27,10 @@ Microsoft Defender for Endpoint • Microsoft Sentinel • KQL • Azure • Ten
 
 - **[Threat Hunt: Port of Entry(Azuki Saga Pt.1)](https://github.com/Darideivi/Threat-hunting-competition/blob/main/port-of-entry.md)**
 
+## 🏆 Long Form Content
 
+- **[My First App Ever(Little Box Email)](https://www.youtube.com/watch?v=R39OxXhgWao)**
+  -Unfortunaly I was not familiar with Git, version control, I do not have the code anymore :'( 
 
 
 <!--
