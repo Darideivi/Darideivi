@@ -20,7 +20,7 @@ Microsoft Defender for Endpoint • Microsoft Sentinel • KQL • Azure • Ten
 
 ## 🚨 Threat Hunting and Security Operations
 
- - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Darideivi/threat-hunting-scenario-tor)**
+ - **[Threat Hunting – Tor Browser Investigation](https://github.com/Darideivi/threat-hunting-scenario-tor)**
    - Performed a threat hunting investigation using Microsoft Defender for Endpoint and Microsoft Sentinel to identify, analyze, and document Tor Browser activity.
 
 ## 🏆 Threat Hunting Competitions
