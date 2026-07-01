@@ -3,6 +3,9 @@
 
 Technical Support Engineer transitioning into Cybersecurity through hands-on projects focused on Vulnerability Management, Threat Hunting, Identity & Access Management, and Microsoft Security technologies. This portfolio showcases practical investigations, detection engineering, and security implementations built using Microsoft Defender for Endpoint, Microsoft Sentinel, Azure, Tenable, and Python.
 
+## 🛠️ Technical Skills
+
+Microsoft Defender for Endpoint • Microsoft Sentinel • KQL • Azure • Tenable • PowerShell • Python • Microsoft Entra ID • Flask • Git • MITRE ATT&CK • NIST • Vulnerability Management • Threat Hunting • Incident Response
 
 ## ⚠️ Vulnerability Management Projects
 
