@@ -30,7 +30,7 @@ Microsoft Defender for Endpoint • Microsoft Sentinel • KQL • Azure • Ten
 ## 📺 Project Demonstrations / Long Form Content
 
 - **[My First App Ever (Little Box Email)](https://www.youtube.com/watch?v=R39OxXhgWao)**
-  - My first software project. While the source code is no longer available, the demo video showcases where my programming journey began.
+   - My first software project. While the source code is no longer available, the demo video showcases where my programming journey began.
 
 
 <!--
