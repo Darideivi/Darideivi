@@ -20,6 +20,10 @@ I'm passionate about cybersecurity and Programming. I love tackling complex chal
  - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Darideivi/threat-hunting-scenario-tor)**
    - Investigated a simulated security incident using Microsoft Defender for Endpoint and Microsoft Sentinel to trace Tor Browser execution, analyze attacker activity, and map findings to the MITRE ATT&CK framework.
 
+## 🏆 Threat Hunting Competitions
+
+- **[Threat Hunt: Port of Entry(Azuki Saga Pt.1)](https://github.com/Darideivi/Threat-hunting-competition/blob/main/port-of-entry.md)**
+
 
 
 
