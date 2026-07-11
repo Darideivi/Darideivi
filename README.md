@@ -26,6 +26,7 @@ Microsoft Defender for Endpoint • Microsoft Sentinel • KQL • Azure • Ten
 ## 🏆 Threat Hunting Competitions
 
 - **[Threat Hunt: Port of Entry(Azuki Saga Pt.1)](https://github.com/Darideivi/Threat-hunting-competition/blob/main/port-of-entry.md)**
+- **[Threat Hunt: Nimbus Health (Valid Account Compromise)](https://github.com/Darideivi/Threat-hunting-competition/blob/main/Nimbus_Health_Threat_Hunt.md)**
 
 ## 📺 Project Demonstrations / Long Form Content
 
